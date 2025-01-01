@@ -32,4 +32,4 @@ To get started with Go, you can follow these steps:
 1. **Install Go**: Visit the [official Go website](https://golang.org/dl/) to download and install Go on your machine.
 2. **Clone the Repository**: Use the following command to clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/learning-go.git
+   git clone https://github.com/phoeniXChunter/learningGo.git
