@@ -1,0 +1,13 @@
+LearningGO
+│
+├── AI_Go_Exercises
+│
+├── AI_Go_Problems
+│
+├── CodeThatIFixed
+│
+├── CodeThatINeedToFix
+│
+├── HowGoDiffersFromBash
+│
+└── TableOfContentsOfgo.dev
